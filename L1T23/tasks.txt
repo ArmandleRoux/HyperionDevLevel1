@@ -1,0 +1,6 @@
+pieter, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 18 Mar 2022, Yes
+admin, Register Users with taskManager.py, Use the new software that was installed this year, 10 Oct 2019, 05 Oct 2019, Yes
+jannie, Register Users with taskManager.py, Use the new software, 10 Oct 2019, 05 Oct 2019, No
+admin, Check Stock, Check all new stock for damage, 16 Mar 2022, 18 Mar 2022, Yes
+pieter, Clean warehouse, Sweep warehouse and pack away all tools, 16 Mar 2022, 18 Mar 2022, Yes
+pieter, Service printers, Service the admin printers, 17 Mar 2022, 20 Mar 2022, Yes

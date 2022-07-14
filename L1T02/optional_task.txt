@@ -1,0 +1,19 @@
+request input from user
+store input in variable called "n"
+
+initialize list for sequence
+initialize index to 2
+initialize a to 0
+initialize b to 1
+initialize sum to 0
+
+add a to list
+add b to list
+
+for index is less than n
+   set sum equal to a + b
+   add sum to list
+   set a equal to b
+   set b equal to sum
+
+print list
